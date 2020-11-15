@@ -49,7 +49,7 @@ As a user I would like:
 
 * To run the application, in your terminal:
 
-        $ chmod +x password_locker.py
+        $ chmod +x run.py
         $ ./run.py
 
 ## Testing the Application
