@@ -42,7 +42,7 @@ As a user I would like:
 
 * In your terminal:
         
-        $ git clone https://github.com/kclaudine/Quotes.git/
+        $ git clone https://https://github.com/kclaudine/password-locker.git/
         $ cd Password-locker
 
 ## Running the Application
@@ -63,4 +63,4 @@ As a user I would like:
 * Python3.6
 
 ## License
-MIT &copy;2020 [kclaudine](https://github.com/kclaudine/Quotes.git)
+MIT &copy;2020 [kclaudine](https://github.com/kclaudine/password-locker.git)
