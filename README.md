@@ -3,7 +3,7 @@
 ## Built By [Claudine Kuradusenge](https://github.com/kclaudine/password-locker.git)
 
 ## Description
-Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts.
+Password locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts
 
 ## User Stories
 These are the behaviours/features that the application implements for use by a user.
