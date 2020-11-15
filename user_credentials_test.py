@@ -97,7 +97,7 @@ class TestCredentials(unittest.TestCase):
 
 	def test_find_by_site_name(self):
 		'''
-		Test to check if the find_by_site_name method returns the correct credential.
+		Test to check if the find_by_site_name method returns the correct credential
 		'''
 		self.new_credential.save_credentials()
 		twitter = Credential('Jane','Twitter','maryjoe','pswd100')
