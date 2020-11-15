@@ -30,8 +30,9 @@ As a user I would like:
 | Display prompt for which credential to copy | **Enter: copy** | Enter the site name of the credential you wish to copy. |
 | Exit application | **Enter: ex** | Exit the current navigation stage |
 
-## SetUp / Installation Requirements
-### Prerequisites
+
+### Prerequisities
+
 * python3.6
 * pip
 * pyperclip
