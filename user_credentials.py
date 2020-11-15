@@ -47,7 +47,7 @@ class Credential:
 
 	def __init__(self,user_name,site_name,account_name,password):
 		'''
-		Method to define the properties for each user object will hold.
+		Method to define the properties for each user object will hold
 		'''
 
 		# instance variables
