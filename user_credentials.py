@@ -23,7 +23,7 @@ class User:
 
 	def save_user(self):
 		'''
-		Function to save a newly created user instanc
+		Function to save a newly created user instance
 		'''
 		User.users_list.append(self)
 		
