@@ -34,7 +34,7 @@ class TestCredentials(unittest.TestCase):
 	Test class that defines test cases for the credentials class behaviours.
 
 	Args:
-	    unittest.TestCase: helps in creating test cases
+	    unittest.TestCase: helps in creating test cases.
 	'''
 	def test_check_user(self):
 		'''
