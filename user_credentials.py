@@ -73,7 +73,7 @@ class Credential:
 	@classmethod
 	def display_credentials(cls,user_name):
 		'''
-		Class method to display the list of credentials saved
+		Class method to display the list of credentials saved.
 		'''
 		user_credentials_list = []
 		for credential in cls.credentials_list:
