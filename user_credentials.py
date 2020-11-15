@@ -29,7 +29,7 @@ class User:
 		
 class Credential:
 	'''
-	Class to create  account credentials, generate passwords and save their information
+	Clas to create  account credentials, generate passwords and save their information
 	'''
 	# Class Variables
 	credentials_list =[]
